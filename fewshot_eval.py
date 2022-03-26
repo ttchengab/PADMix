@@ -109,8 +109,6 @@ v2vnet.load_state_dict(checkpoint['v2v_state_dict'])
 if torch.cuda.is_available():
     v2vnet.cuda()
     gt_encoder.cuda()
-    # v2vnet = torch.nn.DataParallel(v2vnet).cuda()
-    # gt_encoder = torch.nn.DataParallel(gt_encoder).cuda()
 
 
 v2vnet.eval()
