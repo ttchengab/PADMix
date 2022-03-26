@@ -75,3 +75,9 @@ To evaluate the IoU, use the following command:
 ```
 python fewshot_eval.py
 ```
+
+## Pretrained Models
+
+The pretrained models under the one-shot setting on ShapeNet are available here:
+
+- [PADMix](https://drive.google.com/file/d/1BMnLMIHyhCTlBN5w6T2iOa8rHwmcVajt/view?usp=sharing)
