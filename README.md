@@ -2,6 +2,9 @@
 
 This repository provides the source code for the paper [Pose Adaptive Dual Mixup for Few-Shot Single-View 3D Reconstruction](https://arxiv.org/abs/2112.12484?context=cs) published in AAAI-22. The implementation is on ShapeNet.
 
+![Overview](https://github.com/ttchengab/PADMix/blob/main/overview.png)
+
+
 ## Cite this work
 
 ```
