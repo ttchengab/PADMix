@@ -78,4 +78,4 @@ python fewshot_eval.py
 
 ## Pretrained Models
 
-The pretrained models under the one-shot setting on ShapeNet are available [here](https://drive.google.com/file/d/1BMnLMIHyhCTlBN5w6T2iOa8rHwmcVajt/view?usp=sharing).
+The pretrained model under the one-shot setting on ShapeNet is available [here](https://drive.google.com/file/d/1BMnLMIHyhCTlBN5w6T2iOa8rHwmcVajt/view?usp=sharing).
